@@ -1,0 +1,43 @@
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.exe.config
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.exe
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.pdb
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.csprojResolveAssemblyReference.cache
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.Properties.Resources.resources
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.csproj.GenerateResource.Cache
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.exe
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.pdb
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.Login.resources
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.MainForm.resources
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.Login.resources
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.MainForm.resources
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.Properties.Resources.resources
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.csproj.GenerateResource.Cache
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.exe
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.pdb
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.exe.config
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.exe
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.pdb
+D:\Programming Tutorials\C#\Training\TrainingApplication\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.AdminForm.resources
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.exe.config
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.exe
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.pdb
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.exe
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.pdb
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.csprojResolveAssemblyReference.cache
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.AdminForm.resources
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.Login.resources
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.MainForm.resources
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.Properties.Resources.resources
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.csproj.GenerateResource.Cache
+C:\Users\Abd El Rahman Ezzat\source\repos\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.exe.config
+C:\Users\Abd El Rahman Ezzat\source\repos\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.exe
+C:\Users\Abd El Rahman Ezzat\source\repos\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\bin\Debug\MonthlyCalculator.pdb
+C:\Users\Abd El Rahman Ezzat\source\repos\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.csprojAssemblyReference.cache
+C:\Users\Abd El Rahman Ezzat\source\repos\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.AdminForm.resources
+C:\Users\Abd El Rahman Ezzat\source\repos\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.Login.resources
+C:\Users\Abd El Rahman Ezzat\source\repos\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.MainForm.resources
+C:\Users\Abd El Rahman Ezzat\source\repos\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.Properties.Resources.resources
+C:\Users\Abd El Rahman Ezzat\source\repos\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.csproj.GenerateResource.cache
+C:\Users\Abd El Rahman Ezzat\source\repos\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Abd El Rahman Ezzat\source\repos\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.exe
+C:\Users\Abd El Rahman Ezzat\source\repos\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Debug\MonthlyCalculator.pdb

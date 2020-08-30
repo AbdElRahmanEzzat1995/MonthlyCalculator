@@ -1,0 +1,12 @@
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\bin\Release\MonthlyCalculator.exe.config
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\bin\Release\MonthlyCalculator.exe
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\bin\Release\MonthlyCalculator.pdb
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Release\MonthlyCalculator.csprojResolveAssemblyReference.cache
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Release\MonthlyCalculator.AdminForm.resources
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Release\MonthlyCalculator.Login.resources
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Release\MonthlyCalculator.MainForm.resources
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Release\MonthlyCalculator.Properties.Resources.resources
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Release\MonthlyCalculator.csproj.GenerateResource.Cache
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Release\MonthlyCalculator.exe
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\obj\Release\MonthlyCalculator.pdb
+D:\Abd El RahMaN EzZaT\Programming Courses\TrainingApplication C#(MonthlyCalculator)\MonthlyCalculator\MonthlyCalculator\bin\Release\Microsoft.SqlServer.Types.dll
